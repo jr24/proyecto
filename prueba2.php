@@ -1,3 +1,3 @@
 <?php
-echo "Continuamos con el proyecto, hacemos pruebas v3login"
+echo "Continuamos con el proyecto, hacemo pruebas V3.0"
 ?>
