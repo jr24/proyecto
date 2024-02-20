@@ -1,3 +1,3 @@
 <?php
-echo "hola mundo";
+echo "Iniciando el verdadero camino";
 ?>
